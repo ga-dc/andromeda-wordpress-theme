@@ -1,3 +1,3 @@
 <?php get_header(); ?>
-my awesome theme
+index.pgp
 <?php get_footer(); ?>
